@@ -5,7 +5,7 @@
 ##### Sobre Mim 
 > * Formando em Gestão de Recursos Humanos em 2017, na instituição ICESP;<br>
 > * Graduado em Análise e Desenvolvimento de Sistemas em 2022, na instituição UDF;<br>
-> * Atualmente cursando Desenvolvimento Java na instituição SENAI Brasília;
+> * Atualmente cursando Desenvolvimento Java na instituição SENAI Brasília.
 
 ##### Contato
 
@@ -13,6 +13,7 @@
 <a href="mailto:williamerson@hotmail.com?subject=&body=Ol%C3%A1"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
             
           
+
 
 
           
