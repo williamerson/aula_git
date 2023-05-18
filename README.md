@@ -3,7 +3,7 @@
 ### Senai Brasília Desenvolvedor <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/> - 2023
 
 ##### Sobre Mim 
-> * Formando em Gestão de Recursos Humanos em 2017, na instituição ICESP;<br>
+> * Formado em Gestão de Recursos Humanos em 2017, na instituição ICESP;<br>
 > * Graduado em Análise e Desenvolvimento de Sistemas em 2022, na instituição UDF;<br>
 > * Atualmente cursando Desenvolvimento Java na instituição SENAI Brasília.
 
