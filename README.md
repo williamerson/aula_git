@@ -1,4 +1,4 @@
-# Aula de GitHub<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35"/>
+# Meu GitHub<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35"/>
 
 ### Senai Brasília Desenvolvedor <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/> - 2023
 
