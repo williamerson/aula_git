@@ -5,7 +5,9 @@
 ##### Sobre Mim 
 > * Formado em Gestão de Recursos Humanos em 2017, na instituição ICESP;<br>
 > * Graduado em Análise e Desenvolvimento de Sistemas em 2022, na instituição UDF;<br>
-> * Atualmente cursando Desenvolvimento Java na instituição SENAI Brasília.
+> * Curso em Desenvolvimento Java na instituição SENAI Brasília;
+> * Curso em Administrador de Banco de Dados na Instituição SENAC Taguatinga-DF;
+> * Curso de Lógica de Programção na Instituição SENAC Taguatinga-DF.
 
 ##### Contato
 
